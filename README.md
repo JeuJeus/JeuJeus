@@ -1,3 +1,3 @@
-### Hi there! Welcome to my Github Page
+![alt text](https://raw.githubusercontent.com/JeuJeus/JeuJeus/master/github-profile.gif?raw=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeuJeus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
